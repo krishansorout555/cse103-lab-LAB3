@@ -62,3 +62,8 @@ python3 main.py
 - [GitHub Skills](https://skills.github.com/)
 - [Markdown Guide](https://www.markdownguide.org/)
 
+ ## author
+
+  krishansorout555
+
+  K.R. Mangalam University, Gurugram
