@@ -41,7 +41,7 @@ cse103-lab-LAB3/
 ## How to Run
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/cse103-lab-LAB3.git
+git clone https://github.com/krishansorout555/cse103-lab-LAB3.git
 
 cd cse103-lab-LAB3
 
